@@ -1,0 +1,1 @@
+{"private":true,"name":"y","scripts":{"dev":"nuxt","build":"nuxt build","start":"nuxt start","generate":"nuxt generate"},"author":"","license":"ISC","description":"","dependencies":{"nuxt":"^2.18.1","swiper":"^11.2.10"}}
